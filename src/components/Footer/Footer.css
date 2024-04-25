@@ -16,3 +16,13 @@
 .footer-btn:hover .social-media-icon {
     color: #047DBB;
 }
+
+@media screen and (max-width: 768px) {
+    footer > section {
+        flex-direction: column;
+    }
+
+    .social-media {
+        margin: 0.25em;
+    }
+}

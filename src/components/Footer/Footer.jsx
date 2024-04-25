@@ -8,7 +8,7 @@ export default function Footer() {
         <footer className='footer d-flex flex-column justify-content-around align-items-center gap-4'>
             <section className='d-flex justify-content-around align-items-center gap-5'>
                 <img src={FooterLogo} className='footer-image' width='252px' height='155px' alt='marco-eiffel' />
-                <div className='social-media'>
+                <div className='social-media d-flex'>
                     <button className='btn footer-btn'>
                         <a href='https://facebook.com/'>
                             <SiFacebook className='social-media-icon' size={35} />
