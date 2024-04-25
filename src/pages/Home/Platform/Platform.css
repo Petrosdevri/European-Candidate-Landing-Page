@@ -1,0 +1,40 @@
+.platform {
+    width: 100%;
+    background: #022399;
+}
+
+.platform > h5 {
+    width: 35%;
+}
+
+.platform-point {
+    width: 25em;
+    background: #0464A4;
+    border-radius: 10px;
+    box-shadow: 0 0 7.5px #000000;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.image-wrapper {
+    width: 150px;
+    height: 150px;
+    background: #0496D2;
+    border-radius: 50%;
+}
+
+@media screen and (max-width: 1080px) {
+    .platform-points {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .platform > h5 {
+        width: 80%;
+    }
+
+    .platform-point {
+      width: 20em;
+    }
+}

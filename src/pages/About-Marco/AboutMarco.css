@@ -1,0 +1,11 @@
+.about-marco {
+    color: #575D6C;
+}
+
+.about-marco > section {
+    width: 65%;
+}
+
+.points {
+    width: 65%;
+}

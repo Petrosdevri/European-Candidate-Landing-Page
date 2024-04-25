@@ -1,0 +1,19 @@
+.about {
+    width: 65%;
+    color: #575D6C;
+}
+
+.about-header {
+    color: #047DBB;
+}
+
+.about-portrait {
+    border-radius: 20px;
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 768px) {
+    .about {
+        width: 80%;
+    }
+}

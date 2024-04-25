@@ -1,0 +1,16 @@
+.get-involved {
+    width: 100%;
+    background: #0496D2;
+}
+
+.get-involved-btn {
+    background: #FFFFFF;
+}
+
+.get-involved-btn a {
+    color: #047DBB;
+}
+
+.get-involved-btn:hover {
+    color: #FFFFFF;
+}

@@ -1,0 +1,22 @@
+.navbar {
+    background: #047DBB !important;
+}
+
+.navbar-brand {
+    padding-inline-start: 0.75em;
+}
+
+#navbar-content {
+    margin-inline-start: 10em;
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2em !important;
+    padding: 0 2em !important;
+}
+
+.nav-link:hover {
+    color: #D31A34 !important;
+}

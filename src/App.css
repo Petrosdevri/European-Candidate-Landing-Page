@@ -1,0 +1,35 @@
+body {
+  background: #F1FAEE;
+  overflow: hidden;
+}
+
+#root {
+  width: 100%;
+  color: #FFFFFF;
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, .read-btn {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+h3 {
+  font-size: 2.25em !important;
+}
+
+button > a, button:hover > a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.read-btn {
+  background: #047DBB;
+  border-radius: 10px;
+  font-size: 1.2em;
+  padding: 1em 1.5em;
+  text-transform: uppercase;
+}
+
+.read-btn:hover {
+  background: #0464A4;
+}

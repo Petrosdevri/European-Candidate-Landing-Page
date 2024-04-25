@@ -1,0 +1,18 @@
+.footer {
+    background: #047DBB;
+    padding: 4.5em;
+}
+
+.social-media-icon {
+    color: #FFFFFF;
+    margin: 0.5em;
+}
+
+.footer-btn:hover {
+    background: #FFFFFF !important;
+    box-shadow: 0 0 0.025em #000000;
+}
+
+.footer-btn:hover .social-media-icon {
+    color: #047DBB;
+}
