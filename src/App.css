@@ -22,7 +22,7 @@ button > a, button:hover > a {
   text-decoration: none;
 }
 
-.read-btn {
+.read-btn, .submit-btn {
   background: #047DBB;
   border-radius: 10px;
   font-size: 1.2em;
@@ -30,6 +30,6 @@ button > a, button:hover > a {
   text-transform: uppercase;
 }
 
-.read-btn:hover {
+.read-btn:hover, .submit-btn:hover {
   background: #0464A4;
 }

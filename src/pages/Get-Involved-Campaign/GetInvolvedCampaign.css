@@ -1,7 +1,31 @@
 .get-involved-campaign {
+    width: 100%;
     color: #575D6C;
 }
 
 .get-involved-campaign-header {
     color: #047DBB;
+}
+
+.form {
+    width: 35%;
+    text-align: center;
+}
+
+.form input, .form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.form textarea {
+    resize: vertical;
+}
+
+.form button {
+    width: 100%;
+    color: white;
 }
