@@ -22,3 +22,9 @@ header {
     padding: 0.5em;
     text-align: center;
 }
+
+@media screen and (max-width: 780px) {
+    header {
+        height: 550px;
+    }
+}
